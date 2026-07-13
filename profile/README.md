@@ -2,6 +2,8 @@
 
 Hello! Thanks for visiting our page. You are welcome to browse our projects and discussions. This page documents a little bit about who we are.
 
+You might be looking for the [discussion page](https://github.com/orgs/Denver-Systems-Guild/discussions).
+
 ## What We Are
 
 - **The Identity:** An invite-only, independent collective of Front Range senior, staff, and principal software engineers across any technical discipline.
